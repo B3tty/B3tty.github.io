@@ -1,1 +1,4 @@
-theme: jekyll-theme-slate
+remote_theme: hydecorp/hydejack
+#remote_theme: chrisrhymes/bulma-clean-theme
+title: Betty Moreschini
+description: Small overview of what I do on my free time

@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/png" href="favicon.png">
+
 Welcome to my GitHub pages!
 
 Here's what you'll find here:
@@ -24,11 +26,11 @@ Sometimes I like to build and experiment with stuff, for fun. Here are a few pro
 
 ## Activity
 
-## Presentations
+### Presentations
 
 [Presentation on Catalog Customization at vente-privee](https://www.slideshare.net/BettyMoreschini/catalog-personalization)
 
-## Articles
+### Articles
 
 * [Article on catalog customization](https://medium.com/@vptech/personalization-at-vente-privee-catalog-customization-f61170cf3f13) (Same subject as the presentation, but with text)
 
