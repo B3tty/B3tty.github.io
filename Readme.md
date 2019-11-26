@@ -22,7 +22,7 @@ Sometimes I like to build and experiment with stuff, for fun. Here are a few pro
 
 * [BBL #1](https://b3tty.github.io/BBL-WiMLDS/2019-09-19) (2019/09/19): [Learning Embeddings for Product Size Recommendations](https://bit.ly/2Z88rff)
 * [BBL #2](https://b3tty.github.io/BBL-WiMLDS/2019-10-17) (2019/10/17): [Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification](https://bit.ly/2lFtFTR)
-* [BBL #3](https://b3tty.github.io/BBL-WiMLDS/2019-11-21/Readme.md) (2019-11-21): [Uncovering Bias in Ad Feedback Data Analyses & Applications](https://labtomarket.files.wordpress.com/2019/03/adfeedback.pdf)
+* [BBL #3](https://b3tty.github.io/BBL-WiMLDS/2019-11-21) (2019-11-21): [Uncovering Bias in Ad Feedback Data Analyses & Applications](https://labtomarket.files.wordpress.com/2019/03/adfeedback.pdf)
 
 
 ## Activity
