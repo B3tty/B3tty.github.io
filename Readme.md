@@ -23,6 +23,8 @@ Sometimes I like to build and experiment with stuff, for fun. Here are a few pro
 * [BBL #1](https://b3tty.github.io/BBL-WiMLDS/2019-09-19) (2019-09-19): [Learning Embeddings for Product Size Recommendations](https://b3tty.github.io/BBL-WiMLDS/2019-09-19/Resources/asos%20-%20size%20reco.pdf)
 * [BBL #2](https://b3tty.github.io/BBL-WiMLDS/2019-10-17) (2019-10-17): [Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification](https://b3tty.github.io/BBL-WiMLDS/2019-10-17/Resources/gender_shades.pdf)
 * [BBL #3](https://b3tty.github.io/BBL-WiMLDS/2019-11-21) (2019-11-21): [Uncovering Bias in Ad Feedback Data Analyses & Applications](https://b3tty.github.io/BBL-WiMLDS/2019-11-21/Resources/adfeedback.pdf)
+* [BBL #4](https://b3tty.github.io/BBL-WiMLDS/2020-02-20) (2020-02-20): [Inverting The Generator Of A Generative
+Adversarial Network (Antonia Creswell and Anil A Bharath)](Resources/reverting_gans.pdf)
 
 
 ## Activity
