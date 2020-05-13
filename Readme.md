@@ -14,7 +14,7 @@ Sometimes I like to build and experiment with stuff, for fun. Here are a few pro
 * [CodeJam](https://github.com/B3tty/CodeJam): Exercising on CodeJam past problems.
 
 
-## WiMLDS Brown Bag Lunches sessions
+## WiMLDS Brown Bag Lunch sessions
 
 These sessions are an initiative by the [WiMLDS Paris meetup group](https://www.meetup.com/Paris-Women-in-Machine-Learning-Data-Science). Each 3rd Thursday of the month, during lunchtime, we take the time to discuss Machine Learning and Data Science papers that we have found interesting. It's also a good opportunity to meet ML-passionate people in Paris.
 
@@ -23,15 +23,11 @@ I've been in charge of organizing them since September 2019 and I had the chance
 You can find the papers that were presented, as well as the relevant presentations, on [this page](https://b3tty.github.io/BBL-WiMLDS).
 
 
-## Activity
+## Presentations
 
-### Presentations
+I had a few occasions to present my work, at meetups and conferences. That activity is summed up [here](Presentations).
 
-[Presentation on Catalog Customization at vente-privee](https://www.slideshare.net/BettyMoreschini/catalog-personalization)
 
-### Articles
+## Articles
 
-* [Article on catalog customization](https://medium.com/@vptech/personalization-at-vente-privee-catalog-customization-f61170cf3f13) (Same subject as the presentation, but with text)
-
-I had a few occasions to present my work, at meetups and conferences. That activity is summed up [here](https://b3tty.github.io/Activity).
-
+* [Catalog Customization at Veepee](https://medium.com/@vptech/personalization-at-vente-privee-catalog-customization-f61170cf3f13)
